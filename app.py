@@ -326,3 +326,9 @@ python datamind_etl.py
                 st.markdown("<br>", unsafe_allow_html=True)
         else:
             st.info("Table definitions will appear here.", icon="📊")
+
+
+
+AWS_ACCESS_KEY_ID=AKIAQVJ6HWZ2OCJXW6FO
+AWS_SECRET_ACCESS_KEY=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
+AWS_DEFAULT_REGION=us-east-1
